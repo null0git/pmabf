@@ -1,6 +1,6 @@
 # PMABF — Ethical Use & Defensive Research README
 
-> **Important:** This repository contains code that, as-written, automates password guessing against a phpMyAdmin login page. I **cannot** assist in creating or documenting tools intended to perform unauthorized access or malicious activity. The document below is written *only* for ethical, legal, and defensive research use: testing in your own isolated lab systems or on systems for which you have explicit written authorization.
+> **Important:** This repository contains code that, as-written, automates password guessing against a phpMyAdmin login page. The document below is written *only* for ethical, legal, and defensive research use: testing in your own isolated lab systems or on systems for which you have explicit written authorization.
 
 ---
 
